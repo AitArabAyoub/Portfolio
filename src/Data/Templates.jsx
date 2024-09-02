@@ -26,6 +26,13 @@ const Templates = [
         link : "https://social-app-ayoubaitarab.vercel.app/",
         image : "/social.PNG",
         tech : "ts"
+    },
+    {
+        title : "StoriesMaker",
+        desc : "platform designed for storytellers of all kinds",
+        link : "https://storiesmaker.onrender.com/",
+        image : "/story.PNG",
+        tech : "nx"
     }
 ]
 export default Templates
