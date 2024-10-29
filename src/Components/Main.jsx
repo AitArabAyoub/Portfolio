@@ -29,7 +29,7 @@ function Main() {
                         onClick = {()=>{handleClick("rc")}}
                         >React</button>
                     <button 
-                        className={'btn d-block mb-2' + (theme === "light" ? "btn-outline-dark" : " btn-outline-light " ) + (Tech === "ts" ? " active" : "" )}
+                        className={'btn d-block mb-2 ' + (theme === "light" ? "btn-outline-dark" : " btn-outline-light " ) + (Tech === "ts" ? " active" : "" )}
                         onClick = {()=>{handleClick("ts")}}
                         >React & TypeScript</button>
                     <button 
